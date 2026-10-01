@@ -1,6 +1,6 @@
-## Qu’est-ce que Contexte V2 ?
+## Qu’est-ce que Contexte Nano Notion?
 
-Contexte V2 permet à ChatGPT d’utiliser Notion comme mémoire de travail entre plusieurs conversations.
+Contexte Nano Notion permet à ChatGPT d’utiliser Notion comme mémoire de travail entre plusieurs conversations.
 
 Un **Contexte** correspond à une mission : recherche, article, projet, analyse, etc.
 
